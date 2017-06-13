@@ -15,7 +15,7 @@ var instagarmTagImage = new InstagarmTagImage({
     clientSecret: 'f9aba174aa374763ae79dae310da0fa2',
     redirectUri: 'http://127.0.0.1:3000/instagram/callback'
   },
-  redis: {
+  redis: {  
     //redis options
     port: 6379,
     host: '127.0.0.1'
