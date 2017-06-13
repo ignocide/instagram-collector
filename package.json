@@ -1,7 +1,7 @@
 {
-  "name": "instagram-collector",
+  "name": "instagram-tag-image",
   "version": "1.0.0",
-  "description": "collect-image by tag",
+  "description": "search media using tag name, and cache that using redis",
   "main": "index.js",
   "dependencies": {
     "redis": "^2.7.1",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://ignocide@github.com/ignocide/instagram-collector.git"
+    "url": "git+https://ignocide@github.com/ignocide/instagram-tag-image.git"
   },
   "keywords": [
     "instagram"
@@ -21,7 +21,7 @@
   "author": "ignocide",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ignocide/instagram-collector/issues"
+    "url": "https://github.com/ignocide/instagram-tag-image/issues"
   },
-  "homepage": "https://github.com/ignocide/instagram-collector#readme"
+  "homepage": "https://github.com/ignocide/instagram-tag-image#readme"
 }
